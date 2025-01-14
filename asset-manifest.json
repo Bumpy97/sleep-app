@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/sleep-app/static/css/main.774e0541.css",
-    "main.js": "/sleep-app/static/js/main.c63c4f17.js",
+    "main.js": "/sleep-app/static/js/main.000be2d6.js",
     "static/js/885.67acb29c.chunk.js": "/sleep-app/static/js/885.67acb29c.chunk.js",
     "static/js/488.f8c66a78.chunk.js": "/sleep-app/static/js/488.f8c66a78.chunk.js",
     "index.html": "/sleep-app/index.html",
     "main.774e0541.css.map": "/sleep-app/static/css/main.774e0541.css.map",
-    "main.c63c4f17.js.map": "/sleep-app/static/js/main.c63c4f17.js.map",
+    "main.000be2d6.js.map": "/sleep-app/static/js/main.000be2d6.js.map",
     "885.67acb29c.chunk.js.map": "/sleep-app/static/js/885.67acb29c.chunk.js.map",
     "488.f8c66a78.chunk.js.map": "/sleep-app/static/js/488.f8c66a78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.774e0541.css",
-    "static/js/main.c63c4f17.js"
+    "static/js/main.000be2d6.js"
   ]
 }
